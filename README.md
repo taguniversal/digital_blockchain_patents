@@ -59,8 +59,6 @@ All documents are stored in the `docs/` folder for easy access and download:
 
 👉 These files represent the foundational IP for **Digital Blockchain** — a system designed to transcend the limitations of conventional cryptocurrency platforms.
 
-For more information or licensing inquiries, [contact the inventor](mailto:your.email@example.com).
-
 ---
 
 ## 🧠 Use Cases
