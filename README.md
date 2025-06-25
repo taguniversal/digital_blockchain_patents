@@ -31,11 +31,11 @@ All documents are stored in the `docs/` folder for easy access and download:
 
 | File Name | Description |
 |-----------|-------------|
-| [mkrand_article.pdf](docs/mkrand_article.pdf) | **Hardware-Native Blockchain: Enabling Secure, Stateless Digital Currency for a Post-Crypto Era**. This document summarizes the architecture and use-cases for MKRAND and PSI-Indexed currency as a practical alternative to traditional consensus-based blockchains. |
-| [digital_economy.pdf](docs/digital_economy.pdf) | Vision paper outlining the broader **Digital Economy** infrastructure enabled by blockchain-on-paper, offline transactions, and trust-minimized devices. |
-| [patent_cbdc.pdf](docs/patent_cbdc.pdf) | Patent application describing the architecture for a **Central Bank Digital Currency (CBDC)** that works offline using printable blockchain blocks.<br>[Application #63/800,999].<br><br>![CBDC Illustration](image/100.jpeg) |
-| [patent_mkrand.pdf](docs/patent_mkrand.pdf) | Patent application for **MKRand**, a cryptographically secure random bit generator designed for deterministic event ordering across isolated blockchain nodes.<br>[Application #63/799,923].<br><br>![Energy consumption](image/energy.png) |
-| [patent_nash.pdf](docs/patent_nash.pdf) | Patent application introducing the **Nash Cipher**, a novel encryption system designed for ultra-lightweight, post-quantum streaming encryption.<br>[Application #63/800,566]<br><br>![Nash Cipher Graph](image/graph.png)<br>![128-bit Entropy Flow](image/graph128.png) |
+| [mkrand_article.pdf](https://taguniversal.github.io/digital_blockchain_patents/mkrand_article.pdf) | **Hardware-Native Blockchain: Enabling Secure, Stateless Digital Currency for a Post-Crypto Era**. This document summarizes the architecture and use-cases for MKRAND and PSI-Indexed currency as a practical alternative to traditional consensus-based blockchains. |
+| [digital_economy.pdf](https://taguniversal.github.io/digital_blockchain_patents/digital_economy.pdf) | Vision paper outlining the broader **Digital Economy** infrastructure enabled by blockchain-on-paper, offline transactions, and trust-minimized devices. |
+| [patent_cbdc.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_cbdc.pdf) | Patent application describing the architecture for a **Central Bank Digital Currency (CBDC)** that works offline using printable blockchain blocks.<br>[Application #63/800,999].<br><br>![CBDC Illustration](image/100.jpeg) |
+| [patent_mkrand.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkrand.pdf) | Patent application for **MKRand**, a cryptographically secure random bit generator designed for deterministic event ordering across isolated blockchain nodes.<br>[Application #63/799,923].<br><br>![Energy consumption](image/energy.png) |
+| [patent_nash.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_nash.pdf) | Patent application introducing the **Nash Cipher**, a novel encryption system designed for ultra-lightweight, post-quantum streaming encryption.<br>[Application #63/800,566]<br><br>![Nash Cipher Graph](image/graph.png)<br>![128-bit Entropy Flow](image/graph128.png) |
 
 ## ⚡ Digital Blockchain Energy Metrics
 ---
