@@ -70,6 +70,9 @@ All documents are stored in the `docs/` folder for easy access and download:
 - Anti-counterfeit systems for physical currency
 
 ---
+## Quantum Cellular Computing
+![entropy](image/entropy_animation.gif)
+While much of the industry remains focused on quantum computing’s elusive promise, Quantum Cellular Computing offers a practical, deterministic alternative. Where quantum systems rely on entanglement and speculative error correction to explore high-dimensional configuration spaces, Quantum Cellular Computing uses massive parallelism, deterministic entropy, and cellular automata principles to deliver similar capabilities with reproducibility, simplicity, and orders-of-magnitude higher energy efficiency.
 
 ## 🔗 More Resources
 
