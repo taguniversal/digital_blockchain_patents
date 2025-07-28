@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **Digital Blockchain** provisional patent portfolio — a revolutionary framework for **offline-capable**, **lightweight**, and **hardware-optimized blockchain technology**.
 
-This repo contains the full text of three foundational patents covering innovations in:
+This repo contains the full text of foundational patents covering innovations in:
 
 - ✅ 128-bit monotonic timestamping (no UNIX time required)
 - ✅ Offline transaction synchronization without consensus
@@ -13,21 +13,23 @@ This repo contains the full text of three foundational patents covering innovati
 ---
 
 ## 🔍 Why This Matters
-
 Conventional blockchains are bloated, consensus-bound, and online-only.  
 **Digital Blockchain** is different:
 
-- 🛰️ No need for satellites, time servers, or global consensus
-- 🧱 Blocks can exist **offline**, embedded in **paper currency** or **POS devices**
-- ⚡ Designed for **instant settlement** between devices — from supercomputers to IoT chips
+- 🛰️ No need for satellites, time servers, or global consensus  
+- 🧱 Blocks can exist **offline**, embedded in **paper currency**, **POS devices**, or **sensor networks**  
+- ⚡ Designed for **instant settlement** between devices — from supercomputers to IoT chips  
+- 🌐 **FSR** enables secure, clockless, mesh-based radio networking without centralized infrastructure  
+- 🧠 **MKSTORM** introduces field-coherent memory: deterministic identity, time ordering, and access across distributed sensors  
 - 🛠️ Suitable for **central banks**, **point-of-sale manufacturers**, and **defense-grade embedded systems**
 
-This tech represents a **new category of blockchain infrastructure**, merging the digital and physical realms.
+This tech represents a **new category of blockchain infrastructure**, merging the digital and physical realms — not just storing state, but actively synchronizing reality.
+
 
 ---
 ## 📄 Patent & Research Documents
-
 All documents are stored in the `docs/` folder for easy access and download:
+
 | File Name | Description |
 |-----------|-------------|
 | [mkrand_article.pdf](https://taguniversal.github.io/digital_blockchain_patents/mkrand_article.pdf) | **Hardware-Native Blockchain: Enabling Secure, Stateless Digital Currency for a Post-Crypto Era**. This document summarizes the architecture and use-cases for MKRAND and PSI-Indexed currency as a practical alternative to traditional consensus-based proof-of-inconvenience blockchains. |
@@ -36,6 +38,7 @@ All documents are stored in the `docs/` folder for easy access and download:
 | [patent_mkrand.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkrand.pdf) | Patent application for **MKRAND**, a cryptographically secure random bit generator designed for deterministic event ordering across isolated blockchain nodes.<br>[Application #63/799,923].<br><br>![Energy consumption](image/energy.png) |
 | [patent_nash.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_nash.pdf) | Patent application introducing the **Nash Cipher**, a novel encryption system designed for ultra-lightweight, post-quantum streaming encryption.<br>[Application #63/800,566]<br><br>![Nash Cipher Graph](image/graph.png)<br>![128-bit Entropy Flow](image/graph128.png) |
 | [patent_fsr.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_fsr.pdf) | Patent application for **Full Spectrum Radio (FSR)**, a novel frequency-hopping communication protocol using deterministic digital entropy for secure, clockless mesh networking and decentralized swarming.<br>[Application #63/850,261]<br><br>![FSR Example](image/full_spectrum_radio.gif) |
+| [patent_mkstorm.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkstorm.pdf) | Patent application for **MKSTORM**, a field-coherent mesh architecture for real-time perception, memory, and distributed synchronization using deterministic entropy-based addressing.<br>[Application pending]<br><br>![MKSTORM Visualization](image/mkstorm.gif) |
 
 ## ⚡ Digital Blockchain Energy Metrics
 ---
