@@ -16,14 +16,24 @@ This repo contains the full text of foundational patents covering innovations in
 Conventional blockchains are bloated, consensus-bound, and online-only.  
 **Digital Blockchain** is different:
 
+## 🧱 Blockchain Infrastructure
 - 🛰️ No need for satellites, time servers, or global consensus  
-- 🧱 Blocks can exist **offline**, embedded in **paper currency**, **POS devices**, or **sensor networks**  
+- 🧾 Blocks can exist **offline**, embedded in **paper currency**, **POS devices**, or **sensor networks**  
 - ⚡ Designed for **instant settlement** between devices — from supercomputers to IoT chips  
-- 🌐 **FSR** enables secure, clockless, mesh-based radio networking without centralized infrastructure  
-- 🧠 **MKSTORM** introduces field-coherent memory: deterministic identity, time ordering, and access across distributed sensors  
-- 🛠️ Suitable for **central banks**, **point-of-sale manufacturers**, and **defense-grade embedded systems**
+- 🛠️ Suitable for **central banks**, **point-of-sale manufacturers**, and **defense-grade embedded systems**  
 
-This tech represents a **new category of blockchain infrastructure**, merging the digital and physical realms — not just storing state, but actively synchronizing reality.
+## 🧠 AI + Inference Engines
+- 🧠 **MKSTORM** introduces field-coherent memory: deterministic identity, time ordering, and access across distributed sensors  
+- 🧩 **MKULTRA** merges structured system state with domain-specific LLMs for **adaptive**, **context-aware**, **deterministic**, **fit-to-spec** reasoning on constrained hardware  
+- ⚙️ **MKCORE** delivers **hard real-time inference** on FPGAs — enabling constant-cycle AI at the tactical edge without CPUs, GPUs, or operating systems  
+
+## 🌐 Networking + Synchronization
+- 🌐 **FSR** enables secure, clockless, mesh-based radio networking with no centralized infrastructure  
+
+---
+
+This tech represents a **new category of infrastructure** — merging the digital and physical realms, synchronizing not just data, but **reality itself**.
+
 
 
 ---
@@ -33,14 +43,15 @@ All documents are stored in the `docs/` folder for easy access and download:
 | File Name | Description |
 |-----------|-------------|
 | [mkrand_article.pdf](https://taguniversal.github.io/digital_blockchain_patents/mkrand_article.pdf) | **Hardware-Native Blockchain: Enabling Secure, Stateless Digital Currency for a Post-Crypto Era**. This document summarizes the architecture and use-cases for MKRAND and PSI-Indexed currency as a practical alternative to traditional consensus-based proof-of-inconvenience blockchains. |
-| [digital_economy.pdf](https://taguniversal.github.io/digital_blockchain_patents/digital_economy.pdf) | Vision paper outlining the broader **Digital Economy** infrastructure enabled by blockchain-on-paper, offline transactions, and trust-minimized devices. |
+| [digital_economy.pdf](https://taguniversal.github.io/digital_blockchain_patents/digital_economy.pdf) | Vision paper outlining the broader **Digital Economy** -Device economies of meaning enabled by blockchain, offline transactions, constant-time databases and decentralized device networks. |
 | [patent_cbdc.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_cbdc.pdf) | Patent application describing the architecture for a **Central Bank Digital Currency (CBDC)** that works offline using printable blockchain blocks.<br>[Application #63/800,999].<br><br>![CBDC Illustration](image/100.jpeg) |
 | [patent_mkrand.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkrand.pdf) | Patent application for **MKRAND**, a cryptographically secure random bit generator designed for deterministic event ordering across isolated blockchain nodes.<br>[Application #63/799,923].<br><br>![Energy consumption](image/energy.png) |
 | [patent_nash.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_nash.pdf) | Patent application introducing the **Nash Cipher**, a novel encryption system designed for ultra-lightweight, post-quantum streaming encryption.<br>[Application #63/800,566]<br><br>![Nash Cipher Graph](image/graph.png)<br>![128-bit Entropy Flow](image/graph128.png) |
 | [patent_fsr.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_fsr.pdf) | Patent application for **Full Spectrum Radio (FSR)**, a novel frequency-hopping communication protocol using deterministic digital entropy for secure, clockless mesh networking and decentralized swarming.<br>[Application #63/850,261]<br><br>![FSR Example](image/full_spectrum_radio.gif) |
 | [patent_mkstorm.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkstorm.pdf) | Patent application for **MKSTORM**, a field-coherent mesh architecture for real-time perception, memory, and distributed synchronization using deterministic entropy-based addressing.<br>[Application #63/852,649]<br><br>![MKSTORM Visualization](image/mkstorm.gif) |
 | [patent_mkultra.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkultra.pdf) | Patent application for **MKULTRA**, a grounded AI framework integrating structured state databases with domain-specific language models for self-training, adaptive self-improvement and deterministic reasoning in dynamic systems (e.g., chess, robotics, avionics, governance).<br>[Application: #63/854,134]<br><br><img src="image/mkultra.gif" width="300"/> |
-| [patent_mkcore.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkcore.pdf) | Patent application for **MKCORE**, an FPGA-based domain-specific inference engine designed to bring large language model capabilities to edge environments with extreme energy efficiency, resilience, and tamper-resistant hardware execution. Suitable for autonomous drones, microsatellites, and battlefield AI with no need for CPUs or GPUs.<br>[Application Pending]<br><br><img src="image/mkcore_title.png" width="300"/> |
+| [patent_mkcore.pdf](https://taguniversal.github.io/digital_blockchain_patents/patent_mkcore.pdf) | Patent application for **MKCORE**, an FPGA-based domain-specific inference engine designed to bring large language model capabilities to edge environments with extreme energy efficiency, resilience, and tamper-resistant hardware execution. Suitable for autonomous drones, microsatellites, and battlefield AI with no need for CPUs or GPUs.<br>[Application Pending]<br><br><img src="image/mkcore_title.png" width="300"/> <br>**MKCORE provides hard real-time inference**, with fixed-cycle latency and deterministic signal routing. This enables AI models to operate in mission-critical contexts such as aerospace, battlefield systems, and autonomous navigation — where timing guarantees are non-negotiable. By eliminating GPUs, operating systems, and dynamic software stacks, MKCORE delivers a **10× reduction in component cost** and **orders-of-magnitude lower power consumption**, making it uniquely suited for edge deployments where efficiency, size, and predictability are paramount.
+|
 
 
 ## ⚡ Digital Blockchain Energy Metrics
@@ -49,7 +60,7 @@ All documents are stored in the `docs/` folder for easy access and download:
 |------------|--------------------------|--------------------|----------------------------|
 | Bitcoin    | ~1.8 billion joules      | 10 minutes         | 545 quadrillion ×         |
 | Ethereum   | ~108,000 joules          | 12 seconds         | 32 trillion ×             |
-| MKRAND     | ~3.3 nanojoules          | 1.3 microseconds   | N/A                        |
+| MKRAND     | ~3.3 nanojoules          | 1.3 microseconds   | <div align="center">𝕀</div>  |
 
 ## 📈 Nash Cipher Performance / Complexity Metrics
 ![Nash Cipher Performance Graph](image/nash_scatter.png)
