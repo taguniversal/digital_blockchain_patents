@@ -34,6 +34,17 @@ Conventional blockchains are bloated, consensus-bound, and online-only.
 
 This tech represents a **new category of infrastructure** — merging the digital and physical realms, synchronizing not just data, but **reality itself**.
 
+## Reference implementations in Zig
+
+MKSTORM builds upon the deterministic entropy and PSI block generation capabilities provided by MKRAND.
+
+- **MKRAND** – Deterministic 128-bit entropy generator and PSI block engine  
+  https://github.com/taguniversal/mkrand
+
+- **MKSTORM** – Temporal deterministic database and filesystem-backed object store  
+  https://github.com/taguniversal/mkstorm
+
+Together, MKRAND provides deterministic address generation, while MKSTORM provides persistence, discovery, and synchronization of data associated with those addresses.
 
 ---
 ## 📄 Patent & Research Documents
