@@ -44,6 +44,10 @@ MKSTORM builds upon the deterministic entropy and PSI block generation capabilit
 - **MKSTORM** – Temporal deterministic database and filesystem-backed object store  
   https://github.com/taguniversal/mkstorm
 
+- **MATTERSCRIPT** – Deterministic 1D Cellular Automata interpreter & CAD kernel for generating 3D geometric primitives from ruleset evolution  
+  https://github.com/taguniversal/matterscript
+
+
 Together, MKRAND provides deterministic address generation, while MKSTORM provides persistence, discovery, and synchronization of data associated with those addresses.
 
 ---
