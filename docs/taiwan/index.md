@@ -1,3 +1,7 @@
+---
+layout: default
+title: Taiwan Expo USA - TAG Universal Machine
+---
 # Next-Generation Digital Circuit & Blockchain IP Licensing
 
 ![Taiwan Expo](taiwan_expo.png)
