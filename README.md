@@ -50,7 +50,7 @@ MKSTORM builds upon the deterministic entropy and PSI block generation capabilit
 
 Together, MKRAND provides deterministic address generation, while MKSTORM provides persistence, discovery, and synchronization of data associated with those addresses.
 
-[![Taiwan Expo Overview](image/taiwan_expo.png)](https://taguniversal.github.io/digital_blockchain_patents/taiwan/README.md)
+[![Taiwan Expo Overview](image/taiwan_expo.png)](https://taguniversal.github.io/digital_blockchain_patents/taiwan/)
 
 
 ---
